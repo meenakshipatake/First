@@ -6,6 +6,7 @@
       <class name="com.makemytrip.tests.TestCase1">
         <methods>
           <include name="price"/>
+          <include name="f"/>
           <include name="afterTest"/>
           <include name="beforeTest"/>
         </methods>

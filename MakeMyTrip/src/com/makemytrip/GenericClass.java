@@ -23,7 +23,7 @@ public class GenericClass {
 	 * */
 	public WebDriver initiateDriver()
 	{
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Meenu\\Desktop\\selenium\\chromedriver_win32 (2)\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Wardhaman\\Desktop\\Meenakshi\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		return driver;
 	}
